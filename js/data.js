@@ -1,5 +1,5 @@
 const info = {
-    'students': [{
+    students: [{
         name: "Sophia Bouterse",
         skills : [
             "VUE", "HTML5", "JS", "CSS3"
